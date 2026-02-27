@@ -1,0 +1,14 @@
+img {
+    width: 250px;
+    height: auto;
+    margin: 10px;
+}
+
+#image {
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 20px;
+}
